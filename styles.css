@@ -57,6 +57,18 @@ footer p {
 }
 
 .app{
-  background-image: url(./img/wwc.jpg);
+  background-image: url(../img/wwc.jpg);
   align-items: center;
+  max-width: 25%;
+  max-height: 25%;
+}
+
+img.resize {
+  max-width:25%;
+  max-height:25%;
+}
+
+.wwcImage {
+  max-width:25%;
+  max-height:25%;
 }
